@@ -16,6 +16,6 @@
   `HTML` • `CSS` • `JavaScript`
 
 ### 📫 Connect With Me
-- **Email:** [bbbrahimi12345@gmail.com](mailto:bbbrahimi12345@gmail.com)
+- **Email:** [bbbrahimi12345@gmail.com](mailto:ssalaudeen448@gmail.com)
 - **LinkedIn:** [://linkedin.com](https://linkedin.com)
 - **X (Twitter):** [@yourhandle](https://x.com)
