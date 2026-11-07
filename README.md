@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Iyaka 👋
 
-<!--
-**iyaka15/iyaka15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** based in Nigeria, building fast, responsive web applications with **React, JavaScript, and Tailwind CSS**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Tools & Deployment:** Git, GitHub, Vite, Vercel, Netlify, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[FXPulse — Live Currency & NGN Rate Converter](https://vercel.app)**  
+  A responsive React & Tailwind app fetching real-time exchange rates with instant multi-currency conversion and error handling.  
+  `React` • `Tailwind CSS` • `REST API`
+
+- **[Wamikan — Location Share App](https://github.com)**  
+  Web application built for clean, fast location sharing.  
+  `HTML` • `CSS` • `JavaScript`
+
+### 📫 Connect With Me
+- **Email:** [bbbrahimi12345@gmail.com](mailto:bbbrahimi12345@gmail.com)
+- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **X (Twitter):** [@yourhandle](https://x.com)
